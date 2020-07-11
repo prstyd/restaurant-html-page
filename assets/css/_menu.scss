@@ -1,0 +1,32 @@
+.line-mn {
+    width: 100px;
+    height: 5px;
+    background-color: $theme-color;
+    margin: 0 auto;
+}
+
+.menu {
+    h3 {
+        font-weight: 400;
+    }
+
+    P {
+        font-weight: 200;
+        color: #C4C4C4;
+    }
+}
+
+.line-wt {
+    width: 50px;
+    height: 3px;
+    background-color: #FFFFFF;
+}
+
+a {
+    font-size: 20pt;
+    color: #FFFFFF;
+
+    &:hover {
+        color: #FE0505;
+    }
+}

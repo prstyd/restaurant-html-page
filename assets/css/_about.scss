@@ -1,0 +1,20 @@
+.line {
+    width: 100px;
+    height: 5px;
+    background-color: $theme-color;
+}
+
+p {
+    font-size: 12pt;
+    color: $gray;
+}
+
+.image_content {
+    width: 185px;
+    height: 75px;
+    background-color: $theme-color;
+    display: table;
+    text-align: center;
+    position: relative;
+    left: -60px;
+}
